@@ -1,0 +1,21 @@
+{
+  "name": "phucthanbot",
+  "version": "1.0.0",
+  "main": "phucThanBot_V2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node phucThanBot_V2.js",
+    "old": "node phucThanBot_AHK.js",
+    "debug": "set AHK_DEBUG=true && node phucThanBot_AHK.js",
+    "improved": "node phucThanBot_AHK.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

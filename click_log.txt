@@ -1,0 +1,13 @@
+08:50:03 - --- Starting click.ahk script ---
+08:50:03 - Parameters received: x=395, y=762
+08:50:03 - Searching for browser window...
+08:50:03 - Found Chrome.exe, hChrome=199820
+08:50:03 - Found main browser window, hChrome=199820
+08:50:03 - Searching for RenderWidget...
+08:50:03 - Found RenderWidget, id=68790, area=1714560
+08:50:03 - => Selecting this RenderWidget (largest area).
+08:50:03 - Final handle (hwnd) selected for click: 68790
+08:50:03 - Starting click action...
+08:50:03 - Attempting ControlClick method...
+08:50:03 - ControlClick called on hwnd=68790 at coordinates x=395, y=762
+08:50:03 - --- Finished click.ahk script ---
